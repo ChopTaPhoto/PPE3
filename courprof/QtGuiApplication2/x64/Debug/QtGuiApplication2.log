@@ -1,0 +1,15 @@
+﻿  Moc'ing QtGuiApplication2.h...
+  Moc'ing ..\..\ppe3\git\PP3\PP3\gestion_mat_view.h...
+  Moc'ing billingtabwidget.h...
+  gestion_mat_view.cpp
+  moc_QtGuiApplication2.cpp
+  moc_billingtabwidget.cpp
+  moc_gestion_mat_view.cpp
+  QtGuiApplication2.cpp
+  billingtabwidget.cpp
+  main.cpp
+d:\data utilisateur\bureau\cours stan\2eme annee\c++\ppe3\git\pp3\pp3\gestion_mat_view.cpp(6): error C2530: 'Gestion_mat_view::m_model' : les références doivent être initialisées
+d:\data utilisateur\bureau\cours stan\2eme annee\c++\courprof\qtguiapplication2\qtguiapplication2.cpp(20): error C2664: 'Gestion_mat_view::Gestion_mat_view(const Gestion_mat_view &)' : impossible de convertir l'argument 1 de 'Model' en 'QWidget *'
+  d:\data utilisateur\bureau\cours stan\2eme annee\c++\courprof\qtguiapplication2\qtguiapplication2.cpp(20): note: Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+d:\data utilisateur\bureau\cours stan\2eme annee\c++\courprof\qtguiapplication2\qtguiapplication2.cpp(22): error C2664: 'Reservation::Reservation(const Reservation &)' : impossible de convertir l'argument 1 de 'Model' en 'QWidget *'
+  d:\data utilisateur\bureau\cours stan\2eme annee\c++\courprof\qtguiapplication2\qtguiapplication2.cpp(22): note: Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
